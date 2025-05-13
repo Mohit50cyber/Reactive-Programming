@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../../JavaStreams/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../JavaStreams/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../reactivecrud/reactivecrud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../microservice/HotelService/HotelService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../microservice/ratingsvc/ratingsvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../microservice/userservice/userservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../reactiveinstant/reactiveinstant/src/main/java" charset="UTF-8" />
+  </component>
+</project>
